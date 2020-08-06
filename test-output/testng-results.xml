@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="10" passed="10">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="242216" started-at="2020-08-06T07:39:12Z" finished-at="2020-08-06T07:43:14Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="242216" started-at="2020-08-06T07:39:12Z" finished-at="2020-08-06T07:43:14Z">
+      <class name="org.sample.ProgramTask3">
+        <test-method status="PASS" signature="search(java.lang.String)[pri:0, instance:org.sample.ProgramTask3@1275dab]" name="search" duration-ms="40163" started-at="2020-08-06T07:39:12Z" data-provider="mobiles" finished-at="2020-08-06T07:39:52Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[iphone]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- search -->
+        <test-method status="PASS" signature="search(java.lang.String)[pri:0, instance:org.sample.ProgramTask3@1275dab]" name="search" duration-ms="29151" started-at="2020-08-06T07:39:52Z" data-provider="mobiles" finished-at="2020-08-06T07:40:21Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[vivo]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- search -->
+        <test-method status="PASS" signature="search(java.lang.String)[pri:0, instance:org.sample.ProgramTask3@1275dab]" name="search" duration-ms="20524" started-at="2020-08-06T07:40:21Z" data-provider="mobiles" finished-at="2020-08-06T07:40:42Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[samsung]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- search -->
+        <test-method status="PASS" signature="search(java.lang.String)[pri:0, instance:org.sample.ProgramTask3@1275dab]" name="search" duration-ms="19580" started-at="2020-08-06T07:40:42Z" data-provider="mobiles" finished-at="2020-08-06T07:41:01Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Oppo]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- search -->
+        <test-method status="PASS" signature="search(java.lang.String)[pri:0, instance:org.sample.ProgramTask3@1275dab]" name="search" duration-ms="13635" started-at="2020-08-06T07:41:01Z" data-provider="mobiles" finished-at="2020-08-06T07:41:15Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Honor]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- search -->
+        <test-method status="PASS" signature="search(java.lang.String)[pri:0, instance:org.sample.ProgramTask3@1275dab]" name="search" duration-ms="25165" started-at="2020-08-06T07:41:15Z" data-provider="mobiles" finished-at="2020-08-06T07:41:40Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[one plus]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- search -->
+        <test-method status="PASS" signature="search(java.lang.String)[pri:0, instance:org.sample.ProgramTask3@1275dab]" name="search" duration-ms="27687" started-at="2020-08-06T07:41:40Z" data-provider="mobiles" finished-at="2020-08-06T07:42:08Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[lenovo]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- search -->
+        <test-method status="PASS" signature="search(java.lang.String)[pri:0, instance:org.sample.ProgramTask3@1275dab]" name="search" duration-ms="20478" started-at="2020-08-06T07:42:08Z" data-provider="mobiles" finished-at="2020-08-06T07:42:28Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[redmi]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- search -->
+        <test-method status="PASS" signature="search(java.lang.String)[pri:0, instance:org.sample.ProgramTask3@1275dab]" name="search" duration-ms="21359" started-at="2020-08-06T07:42:28Z" data-provider="mobiles" finished-at="2020-08-06T07:42:50Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Nokia]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- search -->
+        <test-method status="PASS" signature="search(java.lang.String)[pri:0, instance:org.sample.ProgramTask3@1275dab]" name="search" duration-ms="24302" started-at="2020-08-06T07:42:50Z" data-provider="mobiles" finished-at="2020-08-06T07:43:14Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[mi]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- search -->
+      </class> <!-- org.sample.ProgramTask3 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
