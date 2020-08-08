@@ -34,7 +34,9 @@ public class ProgramClass6 {
 					for(Integer print: s) {
 						System.out.println(print);
 					}
+					System.out.println("----------------");
 					System.out.println("Second maximum amount is");
+					System.out.println("----------------");
 					List<Integer> store=new ArrayList(s);
 					Collections.sort(store);
 					
